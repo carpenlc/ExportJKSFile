@@ -2,11 +2,11 @@
  * This code was adapted from a JavaWorld article on processing 
  * command line options.
  */
-package mil.pki.tools;
+package mil.nga.pki.tools;
 
-import mil.pki.tools.Options.Multiplicity;
-import mil.pki.tools.Options.Prefix;
-import mil.pki.tools.Options.Separator;
+import mil.nga.pki.tools.Options.Multiplicity;
+import mil.nga.pki.tools.Options.Prefix;
+import mil.nga.pki.tools.Options.Separator;
 
 /**
  * This class holds all the data for an option. This includes the prefix, the key, the separator 

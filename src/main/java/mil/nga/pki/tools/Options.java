@@ -4,7 +4,7 @@
  * This code was adapted from a JavaWorld article on processing 
  * command line options.
  */
-package mil.pki.tools;
+package mil.nga.pki.tools;
 
 /**
  * The central class for option processing. Sets are identified by their name, but there is also 

@@ -2,7 +2,7 @@
  * This code was adapted from a JavaWorld article on processing 
  * command line options.
  */
-package mil.pki.tools;
+package mil.nga.pki.tools;
 
 
 /**
