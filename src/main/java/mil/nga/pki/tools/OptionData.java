@@ -70,7 +70,7 @@ public class OptionData {
           pattern = java.util.regex.Pattern.compile(prefix.getName() + key + "((\\w|\\.)+)" + separator.getName() + "(.+)$");
         } else {
             pattern = java.util.regex.Pattern.compile(prefix.getName() + key + separator.getName() + "(.+)$");
-        	// pattern = java.util.regex.Pattern.compile(prefix.getName() + key + "(.+)$");
+            // pattern = java.util.regex.Pattern.compile(prefix.getName() + key + "(.+)$");
         }
       }
     } else {
